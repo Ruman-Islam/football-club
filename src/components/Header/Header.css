@@ -1,0 +1,10 @@
+.header h4 {
+    color: white;
+    text-decoration: none !important;
+}
+.header {
+    width: 100%;
+}
+.header img {
+    width: 100px !important;
+}

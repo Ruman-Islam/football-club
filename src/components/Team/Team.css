@@ -1,0 +1,12 @@
+img {
+    width: 150px !important;
+    margin: 0 auto;
+}
+.col {
+    text-align: center;
+    padding: 20px;
+}
+.col .card {
+    box-shadow: 5px 5px 10px grey;
+    margin: 0 auto;
+}
